@@ -1,1 +1,1 @@
-Machine Learning Exercises with Docker - Jupyter and PyTorch Docker Image
+## Machine Learning Exercises with Docker - Jupyter and PyTorch Docker Image
